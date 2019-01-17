@@ -1,0 +1,4 @@
+#Thu Jan 17 11:13:43 ICT 2019
+base.0=D\:\\Marsel\\PKL\\Git\\greendaoproject\\GreenDao-CRUD-Operation\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
