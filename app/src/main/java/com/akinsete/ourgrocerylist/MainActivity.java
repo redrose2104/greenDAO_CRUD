@@ -117,7 +117,7 @@ public class MainActivity extends AppCompatActivity {
 		// Pass grocery id to the next screen
 		Intent intent = new Intent(this,ModifyGroceryList.class);
 		intent.putExtra("create",false);
-		intent.putExtra("grocery", (Serializable) grocery);
+		intent.putExtra("grocery",grocery);
 		startActivity(intent);
 	}
 
