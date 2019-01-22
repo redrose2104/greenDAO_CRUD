@@ -1,23 +1,25 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Marsel\\PKL\\Git\\greendaoproject\\GreenDao-CRUD-Operation\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "D:\\Marsel\\PKL\\Git\\greendaoproject\\greenDAO_CRUD\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
-                    "source": "D:\\Marsel\\PKL\\Git\\greendaoproject\\GreenDao-CRUD-Operation\\app\\src\\main\\res\\values\\strings.xml",
+                    "source": "D:\\Marsel\\PKL\\Git\\greendaoproject\\greenDAO_CRUD\\app\\src\\main\\res\\values\\styles.xml",
                     "from": {
-                        "startLines": "1",
+                        "startLines": "3",
                         "startColumns": "4",
-                        "startOffsets": "17",
-                        "endColumns": "51",
-                        "endOffsets": "64"
+                        "startOffsets": "57",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "376"
                     },
                     "to": {
-                        "startLines": "685",
+                        "startLines": "704",
                         "startColumns": "4",
-                        "startOffsets": "59692",
-                        "endColumns": "51",
-                        "endOffsets": "59739"
+                        "startOffsets": "61675",
+                        "endLines": "709",
+                        "endColumns": "12",
+                        "endOffsets": "61989"
                     }
                 },
                 {
@@ -40,6 +42,40 @@
                     }
                 },
                 {
+                    "source": "D:\\Marsel\\PKL\\Git\\greendaoproject\\greenDAO_CRUD\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "4,2,3",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "157,57,105",
+                        "endColumns": "45,46,50",
+                        "endOffsets": "198,99,151"
+                    },
+                    "to": {
+                        "startLines": "122,123,124",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "6483,6529,6576",
+                        "endColumns": "45,46,50",
+                        "endOffsets": "6524,6571,6622"
+                    }
+                },
+                {
+                    "source": "D:\\Marsel\\PKL\\Git\\greendaoproject\\greenDAO_CRUD\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "17",
+                        "endColumns": "51",
+                        "endOffsets": "64"
+                    },
+                    "to": {
+                        "startLines": "685",
+                        "startColumns": "4",
+                        "startOffsets": "59692",
+                        "endColumns": "51",
+                        "endOffsets": "59739"
+                    }
+                },
+                {
                     "source": "C:\\Users\\Win7 Ultimate.Win7Ultimate-PC.000\\.gradle\\caches\\transforms-1\\files-1.1\\constraint-layout-1.0.2.aar\\f6abee057058bb884938e82ee4f8aa71\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,4,7,8,11,14,15,18,21,22,23,24,28,29,30,31,36,37,38,41,44,45,48,51,54,57,58,61,64,65,70,71,75,76,77,78,79,80,81,82,83,84,85,91,92,93",
@@ -56,42 +92,6 @@
                         "endLines": "2,6,9,10,13,16,17,20,23,24,25,26,30,31,32,33,38,39,40,43,46,47,50,53,56,59,60,63,66,67,72,73,77,78,79,80,81,82,83,84,85,86,87,93,308,309,385",
                         "endColumns": "51,69,11,67,11,11,66,11,11,66,64,64,11,65,65,66,11,68,65,11,11,66,11,11,11,11,64,11,11,64,11,66,11,64,64,61,61,61,58,59,60,60,58,11,2146,2677,107",
                         "endOffsets": "147,366,499,567,696,822,889,1012,1137,1204,1269,1334,1474,1540,1606,1673,1883,1952,2018,2143,2269,2336,2462,2589,2714,2841,2906,3032,3155,3220,3428,3495,3634,3699,3764,3826,3888,3950,4009,4069,4130,4191,4250,4459,28148,30826,34824"
-                    }
-                },
-                {
-                    "source": "D:\\Marsel\\PKL\\Git\\greendaoproject\\GreenDao-CRUD-Operation\\app\\src\\main\\res\\values\\styles.xml",
-                    "from": {
-                        "startLines": "3",
-                        "startColumns": "4",
-                        "startOffsets": "57",
-                        "endLines": "8",
-                        "endColumns": "12",
-                        "endOffsets": "376"
-                    },
-                    "to": {
-                        "startLines": "704",
-                        "startColumns": "4",
-                        "startOffsets": "61675",
-                        "endLines": "709",
-                        "endColumns": "12",
-                        "endOffsets": "61989"
-                    }
-                },
-                {
-                    "source": "D:\\Marsel\\PKL\\Git\\greendaoproject\\GreenDao-CRUD-Operation\\app\\src\\main\\res\\values\\colors.xml",
-                    "from": {
-                        "startLines": "4,2,3",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "157,57,105",
-                        "endColumns": "45,46,50",
-                        "endOffsets": "198,99,151"
-                    },
-                    "to": {
-                        "startLines": "122,123,124",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "6483,6529,6576",
-                        "endColumns": "45,46,50",
-                        "endOffsets": "6524,6571,6622"
                     }
                 },
                 {

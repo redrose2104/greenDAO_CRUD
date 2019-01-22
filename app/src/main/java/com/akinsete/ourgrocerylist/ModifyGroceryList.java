@@ -19,8 +19,7 @@ public class ModifyGroceryList extends AppCompatActivity {
 
 	EditText name,quantity;
 	Button btn_save;
-
-	boolean createNew = false;
+ 	boolean createNew = false;
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
