@@ -4,7 +4,7 @@
             "outputFile": "D:\\Marsel\\PKL\\Git\\greendaoproject\\greenDAO_CRUD\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Win7 Ultimate.Win7Ultimate-PC.000\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\0a3c009c2b256a042243698072c22ac5\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\Win7 Ultimate.Win7Ultimate-PC.000\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\33a4fa6a58e3e9b9c91e94c811faf7ab\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,19,32,33,34,35,36",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
@@ -15,7 +15,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Win7 Ultimate.Win7Ultimate-PC.000\\.gradle\\caches\\transforms-1\\files-1.1\\cardview-v7-25.3.1.aar\\eb3001ddb3230aca4105b4d3386f3ff2\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\Win7 Ultimate.Win7Ultimate-PC.000\\.gradle\\caches\\transforms-1\\files-1.1\\cardview-v7-26.0.0-alpha1.aar\\3c231b069ba193120662aed8c7b2f84b\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

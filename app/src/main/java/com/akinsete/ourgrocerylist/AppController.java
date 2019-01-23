@@ -20,8 +20,8 @@ public class AppController extends Application {
 	public void onCreate() {
 		super.onCreate();
 
-
-		DaoMaster.DevOpenHelper helper = new DaoMaster.DevOpenHelper(this,"grocery-db"); //The users-db here is the name of our database.
+		//The grocery-db here is the name of our database.
+		DaoMaster.DevOpenHelper helper = new DaoMaster.DevOpenHelper(this,"grocery-db");
 		Database db = helper.getWritableDb();
 		daoSession = new DaoMaster(db).newSession();
 	}

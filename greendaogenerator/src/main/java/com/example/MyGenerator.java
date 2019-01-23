@@ -6,7 +6,11 @@ import org.greenrobot.greendao.generator.Schema;
 
 public class MyGenerator {
 	public static void main(String[] args) {
-		Schema schema = new Schema(1, "com.akinsete.ourgrocerylist.db"); // Your app package name and the (.db) is the folder where the DAO files will be generated into.
+		/* Your app package name and 
+		the (.db) is the folder where the 
+		DAO files will be generated into.
+		*/
+		Schema schema = new Schema(1, "com.akinsete.ourgrocerylist.db");
 		schema.enableKeepSectionsByDefault();
 
 		addTables(schema);

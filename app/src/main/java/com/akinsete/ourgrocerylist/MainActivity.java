@@ -34,9 +34,7 @@ public class MainActivity extends AppCompatActivity {
 		setContentView(R.layout.activity_main);
 
 		listView = (ListView) findViewById(R.id.list_view);
-
 		daoSession = ((AppController) getApplication()).getDaoSession();
-
 		setupListView();
 	}
 
@@ -117,6 +115,7 @@ public class MainActivity extends AppCompatActivity {
 		// Pass grocery id to the next screen
 		Intent intent = new Intent(this,ModifyGroceryList.class);
 		intent.putExtra("create",false);
+		// make sure your Grocery Class implements seriallizable
 		intent.putExtra("grocery", (Serializable) grocery);
 		startActivity(intent);
 	}
