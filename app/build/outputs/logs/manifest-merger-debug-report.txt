@@ -1,178 +1,178 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\Marsel\PKL\Git\greendaoproject\greenDAO_CRUD\app\src\main\AndroidManifest.xml:2:1-24:12
-INJECTED from D:\Marsel\PKL\Git\greendaoproject\greenDAO_CRUD\app\src\main\AndroidManifest.xml:2:1-24:12
-INJECTED from D:\Marsel\PKL\Git\greendaoproject\greenDAO_CRUD\app\src\main\AndroidManifest.xml:2:1-24:12
-INJECTED from D:\Marsel\PKL\Git\greendaoproject\greenDAO_CRUD\app\src\main\AndroidManifest.xml:2:1-24:12
-MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\Win7 Ultimate.Win7Ultimate-PC.000\.gradle\caches\transforms-1\files-1.1\design-26.0.0-alpha1.aar\1a233e3ad9c3d51e0f45069af2ae61df\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Win7 Ultimate.Win7Ultimate-PC.000\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\33a4fa6a58e3e9b9c91e94c811faf7ab\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Win7 Ultimate.Win7Ultimate-PC.000\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\f6abee057058bb884938e82ee4f8aa71\AndroidManifest.xml:2:1-11:12
-MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\Win7 Ultimate.Win7Ultimate-PC.000\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.0.0-alpha1.aar\3c231b069ba193120662aed8c7b2f84b\AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-v13:26.0.0-alpha1] C:\Users\Win7 Ultimate.Win7Ultimate-PC.000\.gradle\caches\transforms-1\files-1.1\support-v13-26.0.0-alpha1.aar\4c5c638fb1d292766bcd40df9500c7f6\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Win7 Ultimate.Win7Ultimate-PC.000\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\d370969b9f6aa90223c1521cd737919b\AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Win7 Ultimate.Win7Ultimate-PC.000\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\d44480f9f044f61def61930b91646fe6\AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\Win7 Ultimate.Win7Ultimate-PC.000\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0-alpha1.aar\11e70c77a5eee6163891cbbfaff36ea6\AndroidManifest.xml:17:1-26:12
-MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\Win7 Ultimate.Win7Ultimate-PC.000\.gradle\caches\transforms-1\files-1.1\transition-26.0.0-alpha1.aar\72545a05e7caae46ad712a8b8c214738\AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Win7 Ultimate.Win7Ultimate-PC.000\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\22ab17004d9c6d410efc04da76f0826c\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Win7 Ultimate.Win7Ultimate-PC.000\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\e82002841fb1d5afde84e8c9058f5012\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Win7 Ultimate.Win7Ultimate-PC.000\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\55649eaa1fd497d71d9f59ce190d3f18\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Win7 Ultimate.Win7Ultimate-PC.000\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\57ac4cab5159750aac616d793d6a451a\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Win7 Ultimate.Win7Ultimate-PC.000\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\2d430c64eccd816b671dd08422afbc9e\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Win7 Ultimate.Win7Ultimate-PC.000\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\25e5ca52a1eb4472b40ae182e0c2f109\AndroidManifest.xml:17:1-31:12
-INJECTED from D:\Marsel\PKL\Git\greendaoproject\greenDAO_CRUD\app\src\main\AndroidManifest.xml:2:1-24:12
-INJECTED from D:\Marsel\PKL\Git\greendaoproject\greenDAO_CRUD\app\src\main\AndroidManifest.xml:2:1-24:12
-INJECTED from D:\Marsel\PKL\Git\greendaoproject\greenDAO_CRUD\app\src\main\AndroidManifest.xml:2:1-24:12
+ADDED from C:\Users\WIN 10\AndroidStudioProjects\greenDAO_CRUD\greenDAO_CRUD\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\WIN 10\AndroidStudioProjects\greenDAO_CRUD\greenDAO_CRUD\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\WIN 10\AndroidStudioProjects\greenDAO_CRUD\greenDAO_CRUD\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\WIN 10\AndroidStudioProjects\greenDAO_CRUD\greenDAO_CRUD\app\src\main\AndroidManifest.xml:2:1-24:12
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\WIN 10\.gradle\caches\transforms-1\files-1.1\design-26.0.0-alpha1.aar\a82d6afbc8dcb1881f4ae4491351d5e6\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\WIN 10\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\be11a47055dd76a787e7b7ca95a9b596\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\WIN 10\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\5f214e94a3a900678c4c849205c4552a\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\WIN 10\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.0.0-alpha1.aar\7fd4f89a6f630c3484835d291fb24f68\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v13:26.0.0-alpha1] C:\Users\WIN 10\.gradle\caches\transforms-1\files-1.1\support-v13-26.0.0-alpha1.aar\bc75787c9d1624d6cc276413bd13eab4\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\WIN 10\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\a341b84243729fb406589bb30618dc7c\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\WIN 10\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\4b38ec778812a2fcfe46b0cd695b116c\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\WIN 10\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0-alpha1.aar\5d47ebe14c97adc87962d7655cb63302\AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\WIN 10\.gradle\caches\transforms-1\files-1.1\transition-26.0.0-alpha1.aar\5bff024a173df8742cfa599f0ae9ba71\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\WIN 10\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\4efccde0d39e04ca8a5fc9f3adde7d63\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\WIN 10\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\22eeee5eba9bbf4971fa1a7ecb49dedb\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\WIN 10\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\c22f32a2726895afbf93a6ed3320b265\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\WIN 10\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\969e9f2e54b8236f8c25e037e52f2514\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\WIN 10\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\0bf9287ef623fe32000d53566a5d797a\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\WIN 10\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\e2e19c70c5938d4a4d129707cd47311a\AndroidManifest.xml:17:1-31:12
+INJECTED from C:\Users\WIN 10\AndroidStudioProjects\greenDAO_CRUD\greenDAO_CRUD\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\WIN 10\AndroidStudioProjects\greenDAO_CRUD\greenDAO_CRUD\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\WIN 10\AndroidStudioProjects\greenDAO_CRUD\greenDAO_CRUD\app\src\main\AndroidManifest.xml:2:1-24:12
 	package
-		ADDED from D:\Marsel\PKL\Git\greendaoproject\greenDAO_CRUD\app\src\main\AndroidManifest.xml:3:11-48
-		INJECTED from D:\Marsel\PKL\Git\greendaoproject\greenDAO_CRUD\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Marsel\PKL\Git\greendaoproject\greenDAO_CRUD\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\WIN 10\AndroidStudioProjects\greenDAO_CRUD\greenDAO_CRUD\app\src\main\AndroidManifest.xml:3:11-48
+		INJECTED from C:\Users\WIN 10\AndroidStudioProjects\greenDAO_CRUD\greenDAO_CRUD\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\WIN 10\AndroidStudioProjects\greenDAO_CRUD\greenDAO_CRUD\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from D:\Marsel\PKL\Git\greendaoproject\greenDAO_CRUD\app\src\main\AndroidManifest.xml
-		ADDED from D:\Marsel\PKL\Git\greendaoproject\greenDAO_CRUD\app\src\main\AndroidManifest.xml:2:1-24:12
-		INJECTED from D:\Marsel\PKL\Git\greendaoproject\greenDAO_CRUD\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\WIN 10\AndroidStudioProjects\greenDAO_CRUD\greenDAO_CRUD\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\WIN 10\AndroidStudioProjects\greenDAO_CRUD\greenDAO_CRUD\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from C:\Users\WIN 10\AndroidStudioProjects\greenDAO_CRUD\greenDAO_CRUD\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from D:\Marsel\PKL\Git\greendaoproject\greenDAO_CRUD\app\src\main\AndroidManifest.xml
-		ADDED from D:\Marsel\PKL\Git\greendaoproject\greenDAO_CRUD\app\src\main\AndroidManifest.xml:2:1-24:12
-		INJECTED from D:\Marsel\PKL\Git\greendaoproject\greenDAO_CRUD\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\WIN 10\AndroidStudioProjects\greenDAO_CRUD\greenDAO_CRUD\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\WIN 10\AndroidStudioProjects\greenDAO_CRUD\greenDAO_CRUD\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from C:\Users\WIN 10\AndroidStudioProjects\greenDAO_CRUD\greenDAO_CRUD\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from D:\Marsel\PKL\Git\greendaoproject\greenDAO_CRUD\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\WIN 10\AndroidStudioProjects\greenDAO_CRUD\greenDAO_CRUD\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from D:\Marsel\PKL\Git\greendaoproject\greenDAO_CRUD\app\src\main\AndroidManifest.xml:5:5-22:19
-MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\Win7 Ultimate.Win7Ultimate-PC.000\.gradle\caches\transforms-1\files-1.1\design-26.0.0-alpha1.aar\1a233e3ad9c3d51e0f45069af2ae61df\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\Win7 Ultimate.Win7Ultimate-PC.000\.gradle\caches\transforms-1\files-1.1\design-26.0.0-alpha1.aar\1a233e3ad9c3d51e0f45069af2ae61df\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Win7 Ultimate.Win7Ultimate-PC.000\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\33a4fa6a58e3e9b9c91e94c811faf7ab\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Win7 Ultimate.Win7Ultimate-PC.000\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\33a4fa6a58e3e9b9c91e94c811faf7ab\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Win7 Ultimate.Win7Ultimate-PC.000\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\f6abee057058bb884938e82ee4f8aa71\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Win7 Ultimate.Win7Ultimate-PC.000\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\f6abee057058bb884938e82ee4f8aa71\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\Win7 Ultimate.Win7Ultimate-PC.000\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.0.0-alpha1.aar\3c231b069ba193120662aed8c7b2f84b\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\Win7 Ultimate.Win7Ultimate-PC.000\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.0.0-alpha1.aar\3c231b069ba193120662aed8c7b2f84b\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-v13:26.0.0-alpha1] C:\Users\Win7 Ultimate.Win7Ultimate-PC.000\.gradle\caches\transforms-1\files-1.1\support-v13-26.0.0-alpha1.aar\4c5c638fb1d292766bcd40df9500c7f6\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-v13:26.0.0-alpha1] C:\Users\Win7 Ultimate.Win7Ultimate-PC.000\.gradle\caches\transforms-1\files-1.1\support-v13-26.0.0-alpha1.aar\4c5c638fb1d292766bcd40df9500c7f6\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Win7 Ultimate.Win7Ultimate-PC.000\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\d370969b9f6aa90223c1521cd737919b\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Win7 Ultimate.Win7Ultimate-PC.000\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\d370969b9f6aa90223c1521cd737919b\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Win7 Ultimate.Win7Ultimate-PC.000\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\d44480f9f044f61def61930b91646fe6\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Win7 Ultimate.Win7Ultimate-PC.000\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\d44480f9f044f61def61930b91646fe6\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\Win7 Ultimate.Win7Ultimate-PC.000\.gradle\caches\transforms-1\files-1.1\transition-26.0.0-alpha1.aar\72545a05e7caae46ad712a8b8c214738\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\Win7 Ultimate.Win7Ultimate-PC.000\.gradle\caches\transforms-1\files-1.1\transition-26.0.0-alpha1.aar\72545a05e7caae46ad712a8b8c214738\AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Win7 Ultimate.Win7Ultimate-PC.000\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\22ab17004d9c6d410efc04da76f0826c\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Win7 Ultimate.Win7Ultimate-PC.000\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\22ab17004d9c6d410efc04da76f0826c\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Win7 Ultimate.Win7Ultimate-PC.000\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\e82002841fb1d5afde84e8c9058f5012\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Win7 Ultimate.Win7Ultimate-PC.000\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\e82002841fb1d5afde84e8c9058f5012\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Win7 Ultimate.Win7Ultimate-PC.000\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\55649eaa1fd497d71d9f59ce190d3f18\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Win7 Ultimate.Win7Ultimate-PC.000\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\55649eaa1fd497d71d9f59ce190d3f18\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Win7 Ultimate.Win7Ultimate-PC.000\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\57ac4cab5159750aac616d793d6a451a\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Win7 Ultimate.Win7Ultimate-PC.000\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\57ac4cab5159750aac616d793d6a451a\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Win7 Ultimate.Win7Ultimate-PC.000\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\2d430c64eccd816b671dd08422afbc9e\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Win7 Ultimate.Win7Ultimate-PC.000\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\2d430c64eccd816b671dd08422afbc9e\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Win7 Ultimate.Win7Ultimate-PC.000\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\25e5ca52a1eb4472b40ae182e0c2f109\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Win7 Ultimate.Win7Ultimate-PC.000\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\25e5ca52a1eb4472b40ae182e0c2f109\AndroidManifest.xml:29:5-20
+ADDED from C:\Users\WIN 10\AndroidStudioProjects\greenDAO_CRUD\greenDAO_CRUD\app\src\main\AndroidManifest.xml:5:5-22:19
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\WIN 10\.gradle\caches\transforms-1\files-1.1\design-26.0.0-alpha1.aar\a82d6afbc8dcb1881f4ae4491351d5e6\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\WIN 10\.gradle\caches\transforms-1\files-1.1\design-26.0.0-alpha1.aar\a82d6afbc8dcb1881f4ae4491351d5e6\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\WIN 10\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\be11a47055dd76a787e7b7ca95a9b596\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\WIN 10\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\be11a47055dd76a787e7b7ca95a9b596\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\WIN 10\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\5f214e94a3a900678c4c849205c4552a\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\WIN 10\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\5f214e94a3a900678c4c849205c4552a\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\WIN 10\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.0.0-alpha1.aar\7fd4f89a6f630c3484835d291fb24f68\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\WIN 10\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.0.0-alpha1.aar\7fd4f89a6f630c3484835d291fb24f68\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v13:26.0.0-alpha1] C:\Users\WIN 10\.gradle\caches\transforms-1\files-1.1\support-v13-26.0.0-alpha1.aar\bc75787c9d1624d6cc276413bd13eab4\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v13:26.0.0-alpha1] C:\Users\WIN 10\.gradle\caches\transforms-1\files-1.1\support-v13-26.0.0-alpha1.aar\bc75787c9d1624d6cc276413bd13eab4\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\WIN 10\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\a341b84243729fb406589bb30618dc7c\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\WIN 10\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\a341b84243729fb406589bb30618dc7c\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\WIN 10\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\4b38ec778812a2fcfe46b0cd695b116c\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\WIN 10\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\4b38ec778812a2fcfe46b0cd695b116c\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\WIN 10\.gradle\caches\transforms-1\files-1.1\transition-26.0.0-alpha1.aar\5bff024a173df8742cfa599f0ae9ba71\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\WIN 10\.gradle\caches\transforms-1\files-1.1\transition-26.0.0-alpha1.aar\5bff024a173df8742cfa599f0ae9ba71\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\WIN 10\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\4efccde0d39e04ca8a5fc9f3adde7d63\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\WIN 10\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\4efccde0d39e04ca8a5fc9f3adde7d63\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\WIN 10\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\22eeee5eba9bbf4971fa1a7ecb49dedb\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\WIN 10\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\22eeee5eba9bbf4971fa1a7ecb49dedb\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\WIN 10\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\c22f32a2726895afbf93a6ed3320b265\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\WIN 10\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\c22f32a2726895afbf93a6ed3320b265\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\WIN 10\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\969e9f2e54b8236f8c25e037e52f2514\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\WIN 10\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\969e9f2e54b8236f8c25e037e52f2514\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\WIN 10\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\0bf9287ef623fe32000d53566a5d797a\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\WIN 10\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\0bf9287ef623fe32000d53566a5d797a\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\WIN 10\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\e2e19c70c5938d4a4d129707cd47311a\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\WIN 10\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\e2e19c70c5938d4a4d129707cd47311a\AndroidManifest.xml:29:5-20
 	android:supportsRtl
-		ADDED from D:\Marsel\PKL\Git\greendaoproject\greenDAO_CRUD\app\src\main\AndroidManifest.xml:11:9-35
+		ADDED from C:\Users\WIN 10\AndroidStudioProjects\greenDAO_CRUD\greenDAO_CRUD\app\src\main\AndroidManifest.xml:11:9-35
 	android:label
-		ADDED from D:\Marsel\PKL\Git\greendaoproject\greenDAO_CRUD\app\src\main\AndroidManifest.xml:9:9-41
+		ADDED from C:\Users\WIN 10\AndroidStudioProjects\greenDAO_CRUD\greenDAO_CRUD\app\src\main\AndroidManifest.xml:9:9-41
 	android:roundIcon
-		ADDED from D:\Marsel\PKL\Git\greendaoproject\greenDAO_CRUD\app\src\main\AndroidManifest.xml:10:9-54
+		ADDED from C:\Users\WIN 10\AndroidStudioProjects\greenDAO_CRUD\greenDAO_CRUD\app\src\main\AndroidManifest.xml:10:9-54
 	android:icon
-		ADDED from D:\Marsel\PKL\Git\greendaoproject\greenDAO_CRUD\app\src\main\AndroidManifest.xml:8:9-43
+		ADDED from C:\Users\WIN 10\AndroidStudioProjects\greenDAO_CRUD\greenDAO_CRUD\app\src\main\AndroidManifest.xml:8:9-43
 	android:allowBackup
-		ADDED from D:\Marsel\PKL\Git\greendaoproject\greenDAO_CRUD\app\src\main\AndroidManifest.xml:7:9-35
+		ADDED from C:\Users\WIN 10\AndroidStudioProjects\greenDAO_CRUD\greenDAO_CRUD\app\src\main\AndroidManifest.xml:7:9-35
 	android:theme
-		ADDED from D:\Marsel\PKL\Git\greendaoproject\greenDAO_CRUD\app\src\main\AndroidManifest.xml:12:9-40
+		ADDED from C:\Users\WIN 10\AndroidStudioProjects\greenDAO_CRUD\greenDAO_CRUD\app\src\main\AndroidManifest.xml:12:9-40
 	android:name
-		ADDED from D:\Marsel\PKL\Git\greendaoproject\greenDAO_CRUD\app\src\main\AndroidManifest.xml:6:9-38
+		ADDED from C:\Users\WIN 10\AndroidStudioProjects\greenDAO_CRUD\greenDAO_CRUD\app\src\main\AndroidManifest.xml:6:9-38
 activity#com.akinsete.ourgrocerylist.MainActivity
-ADDED from D:\Marsel\PKL\Git\greendaoproject\greenDAO_CRUD\app\src\main\AndroidManifest.xml:13:9-19:20
+ADDED from C:\Users\WIN 10\AndroidStudioProjects\greenDAO_CRUD\greenDAO_CRUD\app\src\main\AndroidManifest.xml:13:9-19:20
 	android:name
-		ADDED from D:\Marsel\PKL\Git\greendaoproject\greenDAO_CRUD\app\src\main\AndroidManifest.xml:13:19-47
+		ADDED from C:\Users\WIN 10\AndroidStudioProjects\greenDAO_CRUD\greenDAO_CRUD\app\src\main\AndroidManifest.xml:13:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from D:\Marsel\PKL\Git\greendaoproject\greenDAO_CRUD\app\src\main\AndroidManifest.xml:14:13-18:29
+ADDED from C:\Users\WIN 10\AndroidStudioProjects\greenDAO_CRUD\greenDAO_CRUD\app\src\main\AndroidManifest.xml:14:13-18:29
 action#android.intent.action.MAIN
-ADDED from D:\Marsel\PKL\Git\greendaoproject\greenDAO_CRUD\app\src\main\AndroidManifest.xml:15:17-68
+ADDED from C:\Users\WIN 10\AndroidStudioProjects\greenDAO_CRUD\greenDAO_CRUD\app\src\main\AndroidManifest.xml:15:17-68
 	android:name
-		ADDED from D:\Marsel\PKL\Git\greendaoproject\greenDAO_CRUD\app\src\main\AndroidManifest.xml:15:25-66
+		ADDED from C:\Users\WIN 10\AndroidStudioProjects\greenDAO_CRUD\greenDAO_CRUD\app\src\main\AndroidManifest.xml:15:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\Marsel\PKL\Git\greendaoproject\greenDAO_CRUD\app\src\main\AndroidManifest.xml:17:17-76
+ADDED from C:\Users\WIN 10\AndroidStudioProjects\greenDAO_CRUD\greenDAO_CRUD\app\src\main\AndroidManifest.xml:17:17-76
 	android:name
-		ADDED from D:\Marsel\PKL\Git\greendaoproject\greenDAO_CRUD\app\src\main\AndroidManifest.xml:17:27-74
+		ADDED from C:\Users\WIN 10\AndroidStudioProjects\greenDAO_CRUD\greenDAO_CRUD\app\src\main\AndroidManifest.xml:17:27-74
 activity#com.akinsete.ourgrocerylist.ModifyGroceryList
-ADDED from D:\Marsel\PKL\Git\greendaoproject\greenDAO_CRUD\app\src\main\AndroidManifest.xml:20:9-21:20
+ADDED from C:\Users\WIN 10\AndroidStudioProjects\greenDAO_CRUD\greenDAO_CRUD\app\src\main\AndroidManifest.xml:20:9-21:20
 	android:name
-		ADDED from D:\Marsel\PKL\Git\greendaoproject\greenDAO_CRUD\app\src\main\AndroidManifest.xml:20:19-52
+		ADDED from C:\Users\WIN 10\AndroidStudioProjects\greenDAO_CRUD\greenDAO_CRUD\app\src\main\AndroidManifest.xml:20:19-52
 uses-sdk
-INJECTED from D:\Marsel\PKL\Git\greendaoproject\greenDAO_CRUD\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from D:\Marsel\PKL\Git\greendaoproject\greenDAO_CRUD\app\src\main\AndroidManifest.xml
-INJECTED from D:\Marsel\PKL\Git\greendaoproject\greenDAO_CRUD\app\src\main\AndroidManifest.xml
-MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\Win7 Ultimate.Win7Ultimate-PC.000\.gradle\caches\transforms-1\files-1.1\design-26.0.0-alpha1.aar\1a233e3ad9c3d51e0f45069af2ae61df\AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\Win7 Ultimate.Win7Ultimate-PC.000\.gradle\caches\transforms-1\files-1.1\design-26.0.0-alpha1.aar\1a233e3ad9c3d51e0f45069af2ae61df\AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Win7 Ultimate.Win7Ultimate-PC.000\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\33a4fa6a58e3e9b9c91e94c811faf7ab\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Win7 Ultimate.Win7Ultimate-PC.000\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\33a4fa6a58e3e9b9c91e94c811faf7ab\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Win7 Ultimate.Win7Ultimate-PC.000\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\f6abee057058bb884938e82ee4f8aa71\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Win7 Ultimate.Win7Ultimate-PC.000\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\f6abee057058bb884938e82ee4f8aa71\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\Win7 Ultimate.Win7Ultimate-PC.000\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.0.0-alpha1.aar\3c231b069ba193120662aed8c7b2f84b\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\Win7 Ultimate.Win7Ultimate-PC.000\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.0.0-alpha1.aar\3c231b069ba193120662aed8c7b2f84b\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v13:26.0.0-alpha1] C:\Users\Win7 Ultimate.Win7Ultimate-PC.000\.gradle\caches\transforms-1\files-1.1\support-v13-26.0.0-alpha1.aar\4c5c638fb1d292766bcd40df9500c7f6\AndroidManifest.xml:21:5-23:55
-MERGED from [com.android.support:support-v13:26.0.0-alpha1] C:\Users\Win7 Ultimate.Win7Ultimate-PC.000\.gradle\caches\transforms-1\files-1.1\support-v13-26.0.0-alpha1.aar\4c5c638fb1d292766bcd40df9500c7f6\AndroidManifest.xml:21:5-23:55
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Win7 Ultimate.Win7Ultimate-PC.000\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\d370969b9f6aa90223c1521cd737919b\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Win7 Ultimate.Win7Ultimate-PC.000\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\d370969b9f6aa90223c1521cd737919b\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Win7 Ultimate.Win7Ultimate-PC.000\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\d44480f9f044f61def61930b91646fe6\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Win7 Ultimate.Win7Ultimate-PC.000\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\d44480f9f044f61def61930b91646fe6\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\Win7 Ultimate.Win7Ultimate-PC.000\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0-alpha1.aar\11e70c77a5eee6163891cbbfaff36ea6\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\Win7 Ultimate.Win7Ultimate-PC.000\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0-alpha1.aar\11e70c77a5eee6163891cbbfaff36ea6\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\Win7 Ultimate.Win7Ultimate-PC.000\.gradle\caches\transforms-1\files-1.1\transition-26.0.0-alpha1.aar\72545a05e7caae46ad712a8b8c214738\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\Win7 Ultimate.Win7Ultimate-PC.000\.gradle\caches\transforms-1\files-1.1\transition-26.0.0-alpha1.aar\72545a05e7caae46ad712a8b8c214738\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Win7 Ultimate.Win7Ultimate-PC.000\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\22ab17004d9c6d410efc04da76f0826c\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Win7 Ultimate.Win7Ultimate-PC.000\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\22ab17004d9c6d410efc04da76f0826c\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Win7 Ultimate.Win7Ultimate-PC.000\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\e82002841fb1d5afde84e8c9058f5012\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Win7 Ultimate.Win7Ultimate-PC.000\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\e82002841fb1d5afde84e8c9058f5012\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Win7 Ultimate.Win7Ultimate-PC.000\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\55649eaa1fd497d71d9f59ce190d3f18\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Win7 Ultimate.Win7Ultimate-PC.000\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\55649eaa1fd497d71d9f59ce190d3f18\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Win7 Ultimate.Win7Ultimate-PC.000\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\57ac4cab5159750aac616d793d6a451a\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Win7 Ultimate.Win7Ultimate-PC.000\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\57ac4cab5159750aac616d793d6a451a\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Win7 Ultimate.Win7Ultimate-PC.000\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\2d430c64eccd816b671dd08422afbc9e\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Win7 Ultimate.Win7Ultimate-PC.000\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\2d430c64eccd816b671dd08422afbc9e\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Win7 Ultimate.Win7Ultimate-PC.000\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\25e5ca52a1eb4472b40ae182e0c2f109\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Win7 Ultimate.Win7Ultimate-PC.000\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\25e5ca52a1eb4472b40ae182e0c2f109\AndroidManifest.xml:21:5-23:58
-INJECTED from D:\Marsel\PKL\Git\greendaoproject\greenDAO_CRUD\app\src\main\AndroidManifest.xml
-INJECTED from D:\Marsel\PKL\Git\greendaoproject\greenDAO_CRUD\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\WIN 10\AndroidStudioProjects\greenDAO_CRUD\greenDAO_CRUD\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\WIN 10\AndroidStudioProjects\greenDAO_CRUD\greenDAO_CRUD\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\WIN 10\AndroidStudioProjects\greenDAO_CRUD\greenDAO_CRUD\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\WIN 10\.gradle\caches\transforms-1\files-1.1\design-26.0.0-alpha1.aar\a82d6afbc8dcb1881f4ae4491351d5e6\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\WIN 10\.gradle\caches\transforms-1\files-1.1\design-26.0.0-alpha1.aar\a82d6afbc8dcb1881f4ae4491351d5e6\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\WIN 10\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\be11a47055dd76a787e7b7ca95a9b596\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\WIN 10\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\be11a47055dd76a787e7b7ca95a9b596\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\WIN 10\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\5f214e94a3a900678c4c849205c4552a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\WIN 10\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\5f214e94a3a900678c4c849205c4552a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\WIN 10\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.0.0-alpha1.aar\7fd4f89a6f630c3484835d291fb24f68\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\WIN 10\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.0.0-alpha1.aar\7fd4f89a6f630c3484835d291fb24f68\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:26.0.0-alpha1] C:\Users\WIN 10\.gradle\caches\transforms-1\files-1.1\support-v13-26.0.0-alpha1.aar\bc75787c9d1624d6cc276413bd13eab4\AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:support-v13:26.0.0-alpha1] C:\Users\WIN 10\.gradle\caches\transforms-1\files-1.1\support-v13-26.0.0-alpha1.aar\bc75787c9d1624d6cc276413bd13eab4\AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\WIN 10\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\a341b84243729fb406589bb30618dc7c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\WIN 10\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\a341b84243729fb406589bb30618dc7c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\WIN 10\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\4b38ec778812a2fcfe46b0cd695b116c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\WIN 10\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\4b38ec778812a2fcfe46b0cd695b116c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\WIN 10\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0-alpha1.aar\5d47ebe14c97adc87962d7655cb63302\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\WIN 10\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0-alpha1.aar\5d47ebe14c97adc87962d7655cb63302\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\WIN 10\.gradle\caches\transforms-1\files-1.1\transition-26.0.0-alpha1.aar\5bff024a173df8742cfa599f0ae9ba71\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\WIN 10\.gradle\caches\transforms-1\files-1.1\transition-26.0.0-alpha1.aar\5bff024a173df8742cfa599f0ae9ba71\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\WIN 10\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\4efccde0d39e04ca8a5fc9f3adde7d63\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\WIN 10\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\4efccde0d39e04ca8a5fc9f3adde7d63\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\WIN 10\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\22eeee5eba9bbf4971fa1a7ecb49dedb\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\WIN 10\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\22eeee5eba9bbf4971fa1a7ecb49dedb\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\WIN 10\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\c22f32a2726895afbf93a6ed3320b265\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\WIN 10\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\c22f32a2726895afbf93a6ed3320b265\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\WIN 10\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\969e9f2e54b8236f8c25e037e52f2514\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\WIN 10\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\969e9f2e54b8236f8c25e037e52f2514\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\WIN 10\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\0bf9287ef623fe32000d53566a5d797a\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\WIN 10\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\0bf9287ef623fe32000d53566a5d797a\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\WIN 10\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\e2e19c70c5938d4a4d129707cd47311a\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\WIN 10\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\e2e19c70c5938d4a4d129707cd47311a\AndroidManifest.xml:21:5-23:58
+INJECTED from C:\Users\WIN 10\AndroidStudioProjects\greenDAO_CRUD\greenDAO_CRUD\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\WIN 10\AndroidStudioProjects\greenDAO_CRUD\greenDAO_CRUD\app\src\main\AndroidManifest.xml
 	tools:overrideLibrary
-		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\Win7 Ultimate.Win7Ultimate-PC.000\.gradle\caches\transforms-1\files-1.1\design-26.0.0-alpha1.aar\1a233e3ad9c3d51e0f45069af2ae61df\AndroidManifest.xml:23:9-59
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\WIN 10\.gradle\caches\transforms-1\files-1.1\design-26.0.0-alpha1.aar\a82d6afbc8dcb1881f4ae4491351d5e6\AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
-		INJECTED from D:\Marsel\PKL\Git\greendaoproject\greenDAO_CRUD\app\src\main\AndroidManifest.xml
-		ADDED from D:\Marsel\PKL\Git\greendaoproject\greenDAO_CRUD\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Marsel\PKL\Git\greendaoproject\greenDAO_CRUD\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\WIN 10\AndroidStudioProjects\greenDAO_CRUD\greenDAO_CRUD\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\WIN 10\AndroidStudioProjects\greenDAO_CRUD\greenDAO_CRUD\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\WIN 10\AndroidStudioProjects\greenDAO_CRUD\greenDAO_CRUD\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from D:\Marsel\PKL\Git\greendaoproject\greenDAO_CRUD\app\src\main\AndroidManifest.xml
-		ADDED from D:\Marsel\PKL\Git\greendaoproject\greenDAO_CRUD\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Marsel\PKL\Git\greendaoproject\greenDAO_CRUD\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\WIN 10\AndroidStudioProjects\greenDAO_CRUD\greenDAO_CRUD\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\WIN 10\AndroidStudioProjects\greenDAO_CRUD\greenDAO_CRUD\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\WIN 10\AndroidStudioProjects\greenDAO_CRUD\greenDAO_CRUD\app\src\main\AndroidManifest.xml
 meta-data#android.support.VERSION
-ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\Win7 Ultimate.Win7Ultimate-PC.000\.gradle\caches\transforms-1\files-1.1\design-26.0.0-alpha1.aar\1a233e3ad9c3d51e0f45069af2ae61df\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Win7 Ultimate.Win7Ultimate-PC.000\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\33a4fa6a58e3e9b9c91e94c811faf7ab\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Win7 Ultimate.Win7Ultimate-PC.000\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\33a4fa6a58e3e9b9c91e94c811faf7ab\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\Win7 Ultimate.Win7Ultimate-PC.000\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.0.0-alpha1.aar\3c231b069ba193120662aed8c7b2f84b\AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\Win7 Ultimate.Win7Ultimate-PC.000\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.0.0-alpha1.aar\3c231b069ba193120662aed8c7b2f84b\AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:support-v13:26.0.0-alpha1] C:\Users\Win7 Ultimate.Win7Ultimate-PC.000\.gradle\caches\transforms-1\files-1.1\support-v13-26.0.0-alpha1.aar\4c5c638fb1d292766bcd40df9500c7f6\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-v13:26.0.0-alpha1] C:\Users\Win7 Ultimate.Win7Ultimate-PC.000\.gradle\caches\transforms-1\files-1.1\support-v13-26.0.0-alpha1.aar\4c5c638fb1d292766bcd40df9500c7f6\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Win7 Ultimate.Win7Ultimate-PC.000\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\d370969b9f6aa90223c1521cd737919b\AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Win7 Ultimate.Win7Ultimate-PC.000\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\d370969b9f6aa90223c1521cd737919b\AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Win7 Ultimate.Win7Ultimate-PC.000\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\d44480f9f044f61def61930b91646fe6\AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Win7 Ultimate.Win7Ultimate-PC.000\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\d44480f9f044f61def61930b91646fe6\AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\Win7 Ultimate.Win7Ultimate-PC.000\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0-alpha1.aar\11e70c77a5eee6163891cbbfaff36ea6\AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\Win7 Ultimate.Win7Ultimate-PC.000\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0-alpha1.aar\11e70c77a5eee6163891cbbfaff36ea6\AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\Win7 Ultimate.Win7Ultimate-PC.000\.gradle\caches\transforms-1\files-1.1\transition-26.0.0-alpha1.aar\72545a05e7caae46ad712a8b8c214738\AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\Win7 Ultimate.Win7Ultimate-PC.000\.gradle\caches\transforms-1\files-1.1\transition-26.0.0-alpha1.aar\72545a05e7caae46ad712a8b8c214738\AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Win7 Ultimate.Win7Ultimate-PC.000\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\22ab17004d9c6d410efc04da76f0826c\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Win7 Ultimate.Win7Ultimate-PC.000\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\22ab17004d9c6d410efc04da76f0826c\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Win7 Ultimate.Win7Ultimate-PC.000\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\e82002841fb1d5afde84e8c9058f5012\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Win7 Ultimate.Win7Ultimate-PC.000\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\e82002841fb1d5afde84e8c9058f5012\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Win7 Ultimate.Win7Ultimate-PC.000\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\55649eaa1fd497d71d9f59ce190d3f18\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Win7 Ultimate.Win7Ultimate-PC.000\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\55649eaa1fd497d71d9f59ce190d3f18\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Win7 Ultimate.Win7Ultimate-PC.000\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\57ac4cab5159750aac616d793d6a451a\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Win7 Ultimate.Win7Ultimate-PC.000\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\57ac4cab5159750aac616d793d6a451a\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Win7 Ultimate.Win7Ultimate-PC.000\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\2d430c64eccd816b671dd08422afbc9e\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Win7 Ultimate.Win7Ultimate-PC.000\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\2d430c64eccd816b671dd08422afbc9e\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Win7 Ultimate.Win7Ultimate-PC.000\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\25e5ca52a1eb4472b40ae182e0c2f109\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Win7 Ultimate.Win7Ultimate-PC.000\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\25e5ca52a1eb4472b40ae182e0c2f109\AndroidManifest.xml:25:5-27:41
+ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\WIN 10\.gradle\caches\transforms-1\files-1.1\design-26.0.0-alpha1.aar\a82d6afbc8dcb1881f4ae4491351d5e6\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\WIN 10\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\be11a47055dd76a787e7b7ca95a9b596\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\WIN 10\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\be11a47055dd76a787e7b7ca95a9b596\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\WIN 10\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.0.0-alpha1.aar\7fd4f89a6f630c3484835d291fb24f68\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\WIN 10\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.0.0-alpha1.aar\7fd4f89a6f630c3484835d291fb24f68\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v13:26.0.0-alpha1] C:\Users\WIN 10\.gradle\caches\transforms-1\files-1.1\support-v13-26.0.0-alpha1.aar\bc75787c9d1624d6cc276413bd13eab4\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v13:26.0.0-alpha1] C:\Users\WIN 10\.gradle\caches\transforms-1\files-1.1\support-v13-26.0.0-alpha1.aar\bc75787c9d1624d6cc276413bd13eab4\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\WIN 10\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\a341b84243729fb406589bb30618dc7c\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\WIN 10\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\a341b84243729fb406589bb30618dc7c\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\WIN 10\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\4b38ec778812a2fcfe46b0cd695b116c\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\WIN 10\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\4b38ec778812a2fcfe46b0cd695b116c\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\WIN 10\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0-alpha1.aar\5d47ebe14c97adc87962d7655cb63302\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\WIN 10\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0-alpha1.aar\5d47ebe14c97adc87962d7655cb63302\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\WIN 10\.gradle\caches\transforms-1\files-1.1\transition-26.0.0-alpha1.aar\5bff024a173df8742cfa599f0ae9ba71\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\WIN 10\.gradle\caches\transforms-1\files-1.1\transition-26.0.0-alpha1.aar\5bff024a173df8742cfa599f0ae9ba71\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\WIN 10\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\4efccde0d39e04ca8a5fc9f3adde7d63\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\WIN 10\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\4efccde0d39e04ca8a5fc9f3adde7d63\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\WIN 10\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\22eeee5eba9bbf4971fa1a7ecb49dedb\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\WIN 10\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\22eeee5eba9bbf4971fa1a7ecb49dedb\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\WIN 10\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\c22f32a2726895afbf93a6ed3320b265\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\WIN 10\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\c22f32a2726895afbf93a6ed3320b265\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\WIN 10\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\969e9f2e54b8236f8c25e037e52f2514\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\WIN 10\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\969e9f2e54b8236f8c25e037e52f2514\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\WIN 10\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\0bf9287ef623fe32000d53566a5d797a\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\WIN 10\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\0bf9287ef623fe32000d53566a5d797a\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\WIN 10\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\e2e19c70c5938d4a4d129707cd47311a\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\WIN 10\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\e2e19c70c5938d4a4d129707cd47311a\AndroidManifest.xml:25:5-27:41
 	android:value
-		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\Win7 Ultimate.Win7Ultimate-PC.000\.gradle\caches\transforms-1\files-1.1\design-26.0.0-alpha1.aar\1a233e3ad9c3d51e0f45069af2ae61df\AndroidManifest.xml:27:9-38
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\WIN 10\.gradle\caches\transforms-1\files-1.1\design-26.0.0-alpha1.aar\a82d6afbc8dcb1881f4ae4491351d5e6\AndroidManifest.xml:27:9-38
 	android:name
-		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\Win7 Ultimate.Win7Ultimate-PC.000\.gradle\caches\transforms-1\files-1.1\design-26.0.0-alpha1.aar\1a233e3ad9c3d51e0f45069af2ae61df\AndroidManifest.xml:26:9-47
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\WIN 10\.gradle\caches\transforms-1\files-1.1\design-26.0.0-alpha1.aar\a82d6afbc8dcb1881f4ae4491351d5e6\AndroidManifest.xml:26:9-47

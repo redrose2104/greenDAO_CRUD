@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Marsel\\PKL\\Git\\greendaoproject\\greenDAO_CRUD\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
+            "outputFile": "C:\\Users\\WIN 10\\AndroidStudioProjects\\greenDAO_CRUD\\greenDAO_CRUD\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Win7 Ultimate.Win7Ultimate-PC.000\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\33a4fa6a58e3e9b9c91e94c811faf7ab\\res\\values-land\\values-land.xml",
+                    "source": "C:\\Users\\WIN 10\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\be11a47055dd76a787e7b7ca95a9b596\\res\\values-land\\values-land.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Win7 Ultimate.Win7Ultimate-PC.000\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.0.0-alpha1.aar\\1a233e3ad9c3d51e0f45069af2ae61df\\res\\values-land\\values-land.xml",
+                    "source": "C:\\Users\\WIN 10\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.0.0-alpha1.aar\\a82d6afbc8dcb1881f4ae4491351d5e6\\res\\values-land\\values-land.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

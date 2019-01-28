@@ -1,21 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Marsel\\PKL\\Git\\greendaoproject\\greenDAO_CRUD\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
+            "outputFile": "C:\\Users\\WIN 10\\AndroidStudioProjects\\greenDAO_CRUD\\greenDAO_CRUD\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Win7 Ultimate.Win7Ultimate-PC.000\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\33a4fa6a58e3e9b9c91e94c811faf7ab\\res\\values-v23\\values-v23.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,19,32,33,34,35,36",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,190,325,400,487,1277,2079,2206,2311,2426,2533",
-                        "endLines": "2,3,4,5,18,31,32,33,34,35,36",
-                        "endColumns": "134,134,74,86,12,12,126,104,114,106,112",
-                        "endOffsets": "185,320,395,482,1272,2074,2201,2306,2421,2528,2641"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Win7 Ultimate.Win7Ultimate-PC.000\\.gradle\\caches\\transforms-1\\files-1.1\\cardview-v7-26.0.0-alpha1.aar\\3c231b069ba193120662aed8c7b2f84b\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\WIN 10\\.gradle\\caches\\transforms-1\\files-1.1\\cardview-v7-26.0.0-alpha1.aar\\7fd4f89a6f630c3484835d291fb24f68\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -31,6 +20,17 @@
                         "endLines": "39",
                         "endColumns": "12",
                         "endOffsets": "2791"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\WIN 10\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\be11a47055dd76a787e7b7ca95a9b596\\res\\values-v23\\values-v23.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,19,32,33,34,35,36",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,190,325,400,487,1277,2079,2206,2311,2426,2533",
+                        "endLines": "2,3,4,5,18,31,32,33,34,35,36",
+                        "endColumns": "134,134,74,86,12,12,126,104,114,106,112",
+                        "endOffsets": "185,320,395,482,1272,2074,2201,2306,2421,2528,2641"
                     }
                 }
             ]

@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Marsel\\PKL\\Git\\greendaoproject\\greenDAO_CRUD\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
+            "outputFile": "C:\\Users\\WIN 10\\AndroidStudioProjects\\greenDAO_CRUD\\greenDAO_CRUD\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Win7 Ultimate.Win7Ultimate-PC.000\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\33a4fa6a58e3e9b9c91e94c811faf7ab\\res\\values-v21\\values-v21.xml",
+                    "source": "C:\\Users\\WIN 10\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\be11a47055dd76a787e7b7ca95a9b596\\res\\values-v21\\values-v21.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,21,23,24,25,26,28,30,31,32,33,34,36,38,40,42,44,46,47,52,54,56,57,58,60,62,63,64,65,66,67,111,114,158,161,164,166,168,170,173,175,178,179,180,183,184,185,186,187,188,191,192,194,196,198,200,204,206,207,208,209,211,215,217,219,220,221,222,223,225,226,227,237,238,239,251,263,264,265,268,271,272,275,276,279,282",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -15,7 +15,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Win7 Ultimate.Win7Ultimate-PC.000\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.0.0-alpha1.aar\\1a233e3ad9c3d51e0f45069af2ae61df\\res\\values-v21\\values-v21.xml",
+                    "source": "C:\\Users\\WIN 10\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.0.0-alpha1.aar\\a82d6afbc8dcb1881f4ae4491351d5e6\\res\\values-v21\\values-v21.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

@@ -116,7 +116,7 @@ public class MainActivity extends AppCompatActivity {
 		Intent intent = new Intent(this,ModifyGroceryList.class);
 		intent.putExtra("create",false);
 		// make sure your Grocery Class implements seriallizable
-		intent.putExtra("grocery", (Serializable) grocery);
+		intent.putExtra("grocery",grocery);
 		startActivity(intent);
 	}
 

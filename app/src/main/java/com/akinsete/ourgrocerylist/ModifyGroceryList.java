@@ -1,5 +1,6 @@
 package com.akinsete.ourgrocerylist;
 
+import android.annotation.SuppressLint;
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
@@ -38,6 +39,7 @@ public class ModifyGroceryList extends AppCompatActivity {
 	}
 
 
+	@SuppressLint("SetTextI18n")
 	private void handleIntent(Intent intent) {
 		createNew = intent.getBooleanExtra("create",false);
 
@@ -45,7 +47,7 @@ public class ModifyGroceryList extends AppCompatActivity {
 		if(!createNew){
 			grocery = (Grocery)intent.getSerializableExtra("grocery");
 			name.setText(grocery.getName());
-			quantity.setText(grocery.getQuantity());
+			quantity.setText(Integer.toString(grocery.getQuantity()));
 		}
 	}
 
